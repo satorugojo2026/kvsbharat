@@ -1,4 +1,4 @@
-- 👋 I’m @kvsbharat
+- 👋 I’m @satorugojo2026
 - 👀 Interested in gaming, competitive programming. 
 - 💻 Good at GenAI, C++, Data Structures and Algorithms, OOPS,  Networking, Routing Protocols, HTML, CSS, PHP (decreasing order of strengths)
 - 🌱 I’m currently learning Web technologies like MERL
